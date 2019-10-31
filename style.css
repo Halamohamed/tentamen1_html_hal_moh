@@ -10,6 +10,7 @@ body {
     }
     .lifig {
         display: inline;
+        text-decoration: underline;
     }
     a {
         color: black;
@@ -22,9 +23,7 @@ body {
     nav.fig1 {
     background: black;
     color: white;
-    }
-    li {
-    color: white;
+    text-decoration-line: underline;
     }
     a {
     color: white;
