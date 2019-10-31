@@ -1,5 +1,6 @@
 body {
     margin: 20px;
+    font-family: 'Times New Roman', Times, serif, Courier, monospace;
 }
 @media only screen and (min-width: 500px){
     nav.fig1{
@@ -34,11 +35,12 @@ body {
 
 }
 table {
-    background: palevioletred;
+    background: rgb(240, 134, 169);
     font-size: 30px;
 }
 td {
     background: yellow;
+    border: 3px solid rgb(241, 135, 115);
 }
 div {
     width: 300px;
